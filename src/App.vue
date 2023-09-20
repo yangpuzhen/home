@@ -66,7 +66,7 @@ onMounted(() => {
     // 欢迎提示
     helloInit();
     // 默哀模式
-    //checkDays();
+    checkDays();
   });
 
   // 屏蔽右键
