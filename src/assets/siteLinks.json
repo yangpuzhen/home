@@ -2,36 +2,36 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "link": "https://www.cnblogs.com/heichi/"
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "英语练习",
+    "link": "http://qwer.xn--sxwp6r.icu/"
   },
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "link": "https://music.163.com/"
   },
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "link": "http://soso.xn--sxwp6r.icu/"
   },
   {
     "icon": "Book",
     "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "link": "http://onenav.xn--sxwp6r.icu/"
   },
   {
     "icon": "Fire",
     "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "link": "http://daliy-hot.xn--sxwp6r.icu/"
   },
   {
     "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "name": "每日早报",
+    "link": "http://news.xn--sxwp6r.icu/"
   }
 ]
