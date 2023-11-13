@@ -30,6 +30,11 @@
     "link": "http://daliy-hot.baize.host/"
   },
   {
+    "icon": "Cloud",
+    "name": "文档",
+    "link": "https://docs.baize.host/"
+  },
+  {
     "icon": "LaptopCode",
     "name": "每日早报",
     "link": "http://news.baize.host/"
