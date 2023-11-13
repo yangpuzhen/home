@@ -25,14 +25,19 @@
     "link": "http://onenav.baize.host/"
   },
   {
+    "icon": "Cloud",
+    "name": "文档",
+    "link": "https://docs.baize.host/"
+  },
+  {
     "icon": "Fire",
     "name": "今日热榜",
     "link": "http://daliy-hot.baize.host/"
   },
   {
     "icon": "Cloud",
-    "name": "文档",
-    "link": "https://docs.baize.host/"
+    "name": "linux命令速查",
+    "link": "https://linux-command.baize.host/"
   },
   {
     "icon": "LaptopCode",
