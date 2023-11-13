@@ -35,9 +35,14 @@
     "link": "http://daliy-hot.baize.host/"
   },
   {
-    "icon": "Cloud",
+    "icon": "Blog",
     "name": "linux命令速查",
     "link": "https://linux-command.baize.host/"
+  },
+   {
+    "icon": "Book",
+    "name": "面试集锦",
+    "link": "https://coding.baize.host/"
   },
   {
     "icon": "LaptopCode",
